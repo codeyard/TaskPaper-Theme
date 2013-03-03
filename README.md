@@ -3,5 +3,8 @@ New Themes for the fantastic [TaskPaper](http://www.hogbaysoftware.com/products/
 
 
 ## Preview
-
 ![Preview](Preview.png "Preview")
+
+
+## Installation
+Place *.taskpapertheme files in your /Library/Application Support/TaskPaper/Themes folder and select in the TaskPaper Preferences ("Theme Options").
